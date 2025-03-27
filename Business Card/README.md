@@ -16,7 +16,7 @@ I designed this in KiCAD over 5 iterations (one of the iterations only had a mis
   <img src="/images/business_card_images/business_schematic.jpg" width="500" alt="A screenshot of the schematic for the business card PCB. The image includes symbols for a shift register, microcontroller, 2 buttons, some resistors and capacitors, pin headers, an active oscillator, and 64 LEDs in an array.">
 </p>
 
-Please don't judge my PCB design skills, I am (mostly) self-taught and this circuit does not require any high frequency or high voltage wiring techniques. I ordered the PCB from JLCPCB because no other PCB manufacturer comes close to their extremely low pricing ($4 for 5 PCBs, including shipping).
+Please don't judge my PCB design skills, I am (mostly) self-taught and this circuit does not require any high frequency or high voltage wiring techniques. Feel free to try and remake this PCB so that it looks and runs nicer. I ordered the PCB from JLCPCB because no other PCB manufacturer comes close to their extremely low pricing ($4 for 5 PCBs, including shipping).
 <p align="center">
   <img src="/images/business_card_images/business_pcb.jpg" width="500" alt="A screenshot of a PCB design from KiCAD. It includes two layers">
 </p>
