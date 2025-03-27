@@ -10,6 +10,6 @@ This went through 3 iterations before I got one that work, and 5 before I felt c
 
 
 <p align="center">
-  <img src="~/images/business_card_frnt.jpeg" width="350" alt="A picture of a green business card sized PCB that has an 8x8 display along with 2 buttons and 2 integrated circuits.">
-  <img src="~/images/business_card_back.jpeg" width="350" alt="The back of the business card has text that is blurred, but it is clear it is a person's business card.">
+  <img src="/images/business_card_frnt.jpeg" width="350" alt="A picture of a green business card sized PCB that has an 8x8 display along with 2 buttons and 2 integrated circuits.">
+  <img src="/images/business_card_back.jpeg" width="350" alt="The back of the business card has text that is blurred, but it is clear it is a person's business card.">
 </p>
