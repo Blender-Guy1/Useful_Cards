@@ -12,7 +12,11 @@ I wanted a business card that stood out. This went through 3 iterations before I
 
 ### Designed in KiCAD
 I designed this in KiCAD over 5 iterations (one of the iterations only had a misplaced via). I wanted to use the ATMega328p microcontroller at first because it was the only microcontroller I had ever programmed. But after running into some simple and solveable issues, I realized this project was already going to take a while, so I might as well learn something new. This is why I decided to use the [STM32L010F4](https://www.st.com/en/microcontrollers-microprocessors/stm32l010f4.html) microcontroller for its "low power" utilities. I didn't end up using an of these low power utilities because the card ended up running fine on the button cell battery and the LEDs would end up being the majority of the current draw at any one moment.
-![A screenshot of the schematic for the business card PCB. The image includes symbols for a shift register, microcontroller, 2 buttons, some resistors and capacitors, pin headers, an active oscillator, and 64 LEDs in an array.](/images/business_card_images/business_schematic.jpg)
+<p align="center">
+  <img src="/images/business_card_images/business_schematic.jpg" width="500" alt="A screenshot of the schematic for the business card PCB. The image includes symbols for a shift register, microcontroller, 2 buttons, some resistors and capacitors, pin headers, an active oscillator, and 64 LEDs in an array.">
+</p>
 
 Please don't judge my PCB design skills, I am (mostly) self-taught and this circuit does not require any high frequency or high voltage wiring techniques. I ordered the PCB from JLCPCB because no other PCB manufacturer comes close to their extremely low pricing ($4 for 5 PCBs, including shipping).
-![A screenshot of a PCB design from KiCAD. It includes two layers](/images/business_card_images/business_pcb.jpg)
+<p align="center">
+  <img src="/images/business_card_images/business_pcb.jpg" width="500" alt="A screenshot of a PCB design from KiCAD. It includes two layers">
+</p>
