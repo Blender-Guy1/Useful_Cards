@@ -8,6 +8,19 @@ I wanted a business card that stood out. This went through 3 iterations before I
 </p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## How it was made
 
 ### Designed in KiCAD
